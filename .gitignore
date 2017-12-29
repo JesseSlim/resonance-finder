@@ -1,0 +1,11 @@
+data
+output
+*.pyc
+*.bak
+*.BAK
+*.png
+*.pdf
+.ipynb
+.DS_Store
+.ipynb_checkpoints
+
